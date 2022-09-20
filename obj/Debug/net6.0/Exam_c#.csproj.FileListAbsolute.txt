@@ -1,0 +1,15 @@
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\bin\Debug\net6.0\Exam_c#.exe
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\bin\Debug\net6.0\Exam_c#.deps.json
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\bin\Debug\net6.0\Exam_c#.runtimeconfig.json
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\bin\Debug\net6.0\Exam_c#.dll
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\bin\Debug\net6.0\Exam_c#.pdb
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.csproj.AssemblyReference.cache
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.AssemblyInfoInputs.cache
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.AssemblyInfo.cs
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.csproj.CoreCompileInputs.cache
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.dll
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\refint\Exam_c#.dll
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.pdb
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\Exam_c#.genruntimeconfig.cache
+D:\2022_(07.02)\Incode\СУБД\Exam_c#\obj\Debug\net6.0\ref\Exam_c#.dll
